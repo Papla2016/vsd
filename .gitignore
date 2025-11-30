@@ -1,0 +1,12 @@
+node_modules
+client/node_modules
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+uploads
+.DS_Store
+.vscode
+.idea
+client/dist
+client/.vite
